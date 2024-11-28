@@ -8,10 +8,9 @@
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
-                <div class="p-6 text-gray-900">
-                    {{ __("You're logged in!") }}
-                </div>
-                <button href="{{ route('test')}}" class="bg-blue-600 text-white py-4 px-8 rounded-lg">Next page</button>
+              
+                
+
             </div>
         </div>
     </div>
